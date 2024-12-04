@@ -4,7 +4,7 @@
 
 `AlphaSwitcher` is a customizable switch component designed for iOS. It allows you to easily integrate a toggle switch with various styling options, including background color, border, corner radius, icons, and titles.
 
-![AlphaSwitcher Demo](https://github.com/selesai/AlphaSwitcher/raw/refs/heads/main/demo.mp4)
+![AlphaSwitcher Demo](demo.mp4)
 
 ## Requirements
 
