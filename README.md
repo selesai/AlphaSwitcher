@@ -1,5 +1,3 @@
-Here is the complete documentation in markdown format:
-
 # AlphaSwitcher Documentation
 
 ## Overview
